@@ -12,7 +12,7 @@ const MainNavigatio = props => {
             <span />
         </button>
         <h1 className="main-navigation__title">
-            Tasks
+            Lemurian
         </h1>
         <nav>
             ...
